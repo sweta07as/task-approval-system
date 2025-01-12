@@ -61,7 +61,7 @@ This will start the frontend React app on `http://localhost:3000`.
 
 ### Task Approval Workflow
 - **Admin** users can:
-- Create tasks by providing a title, description, and deadline.
+- Create tasks by providing a title and description.
 - Approve tasks, which logs the approval time and username in the audit log.
 - **User** users can only view the tasks but cannot approve them.
 
