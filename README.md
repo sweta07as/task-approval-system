@@ -3,7 +3,7 @@
 This is a Task Approval System built using **React** for the frontend and **Node.js/Express** for the backend. The application allows users to create tasks, approve them, and track approval logs.
 
 ## Features
-- **Task Creation**: Users can create tasks with a title, description, and deadline.
+- **Task Creation**: Users can create tasks with a title and description.
 - **Task Listing**: Displays all tasks with their status (Pending/Approved).
 - **Approval Mechanism**: Admin users can approve tasks, which logs the approval time and the user's name who approved the task.
 - **Authentication**: Basic login system for two types of users:
